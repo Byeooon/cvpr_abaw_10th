@@ -1,0 +1,1 @@
+# CVPR 2026 ABAW 10th Challenge: Expression Recognition
